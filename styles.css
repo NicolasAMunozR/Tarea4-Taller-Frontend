@@ -1,0 +1,8 @@
+body {
+    background-color: lightblue; /* Fondo azul claro */
+    color: darkblue; /* Texto de color azul oscuro */
+    text-align: center; /* Centra el texto */
+}
+h1 {
+    font-size: 3rem; /* Tamaño grande para el título */
+}
